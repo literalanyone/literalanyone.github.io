@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  My (second) First Week on Twitter
-subtitle: Pardon the dust. I'm just getting started.
 date:   2020-03-07 11:44:00 -0800
 categories: twitter general
 ---
